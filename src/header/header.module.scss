@@ -1,0 +1,44 @@
+.hero {
+  background-color: white;
+  .container {
+    display: flex;
+    padding: 1rem 0;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  align-items: stretch;
+  display: flex;
+  justify-content: space-between;
+}
+
+.brand {
+  position: relative;
+  top: 20px;
+  h1 {
+    font-family: Parisienne;
+    font-size: 80px;
+    color: magenta;
+  }
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  .pic {
+    height: 150px;
+    width: 150px;
+    background-color: gray;
+    border: 1px solid black;
+    margin: 5px;
+    transition: all 0.2s ease-in-out;
+    &:hover {
+      transform: scale(1.5);
+      -webkit-transform: scale(1.5);
+      -moz-transform: scale(1.5);
+      -ms-transform: scale(1.5);
+      -o-transform: scale(1.5);
+    }
+  }
+}
