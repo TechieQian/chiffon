@@ -19,6 +19,16 @@
 }
 
 .brand {
+  flex-basis: 40%;
+  flex-grow: 1;
+  @media only screen and (max-width: 769px) {
+    margin: 0 5px;
+    text-align: center;
+    h1 {
+      margin-bottom: 15px;
+    }
+    margin-bottom: 15px;
+  }
   h1 {
     font-family: Parisienne;
     font-size: 80px;

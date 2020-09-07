@@ -9,7 +9,7 @@ function Header(props) {
       <div className={`${styles.container} container`}>
         <div className={styles.brand}>
           <h1 className="title">Chiffon</h1>
-          <h2 className="subtitle">My pup</h2>
+          <h2 className="subtitle">The Maltipoo</h2>
         </div>
         <div className={styles.gallery}>
           {placeholders.map((pic, idx) => (

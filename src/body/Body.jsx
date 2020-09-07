@@ -4,7 +4,7 @@ import styles from "./body.module.scss";
 function Body(props) {
   return (
     <div className={`${styles.body}`}>
-      <div className={`container ${styles.content}`}>{props.text}</div>
+      <div className={`container ${styles.content}`}>{props.children}</div>
     </div>
   );
 }

@@ -6,6 +6,7 @@ import "bulma/css/bulma.css";
 import Navigation from "./header/Navigation";
 import { Switch, Route } from "react-router-dom";
 import data from "./data/data";
+import Shop from "./body/Shop";
 
 function App() {
   return (
@@ -14,10 +15,14 @@ function App() {
       <Navigation />
       <Switch>
         <Route path="/about">
-          <Body text={data.about} />
+          <Body>
+            <div>{data.about}</div>
+          </Body>
         </Route>
         <Route path="/">
-          <Body text={"This is home page"} />
+          <Body>
+            <Shop />
+          </Body>
         </Route>
         <Route path="/shop">
           <Body text={"This is home page"} />
