@@ -1,0 +1,13 @@
+.collab {
+  flex-basis: 70%;
+  .form {
+    background-color: white;
+    padding: 25px;
+    button {
+      background-color: darkmagenta;
+      &:hover {
+        background-color: magenta;
+      }
+    }
+  }
+}

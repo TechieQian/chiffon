@@ -7,6 +7,7 @@ import Navigation from "./header/Navigation";
 import { Switch, Route } from "react-router-dom";
 import data from "./data/data";
 import Shop from "./body/Shop";
+import Collab from "./body/Collab";
 
 function App() {
   return (
@@ -14,24 +15,28 @@ function App() {
       <Header />
       <Navigation />
       <Switch>
+        <Route exact path="/">
+          <Body>
+            <div>{data.about}</div>
+          </Body>
+        </Route>
         <Route path="/about">
           <Body>
             <div>{data.about}</div>
           </Body>
         </Route>
-        <Route path="/">
+        <Route path="/shop">
           <Body>
             <Shop />
           </Body>
         </Route>
-        <Route path="/shop">
+        {/* <Route path="/portfolio">
           <Body text={"This is home page"} />
-        </Route>
-        <Route path="/portfolio">
-          <Body text={"This is home page"} />
-        </Route>
-        <Route path="/colaborate">
-          <Body text={"This is home page"} />
+        </Route> */}
+        <Route path="/collaborate">
+          <Body>
+            <Collab />
+          </Body>
         </Route>
       </Switch>
     </div>
