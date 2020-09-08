@@ -18,7 +18,7 @@ export default class Captcha extends React.Component<CaptchaProps> {
     return (
       <ReCAPTCHA
         ref={this.captcha}
-        sitekey="6Led9a8UAAAAAJV5q2v6C_U33C6CiUP_kjwqXSpu"
+        sitekey="6LfMO8kZAAAAAK2V-IlMzGrJJgRdyI-ih-Si7XMY"
         onChange={(captcha) => onVerify(captcha)}
         {...rest}
       />
