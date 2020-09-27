@@ -12,7 +12,7 @@ function Collab(props: CollabProps) {
   const [loading, setLoading] = useState(false);
 
   function validateButton() {
-    return name && email && message && captcha && !loading;
+    return name && email && message && !loading;
   }
 
   function onSend() {
@@ -75,7 +75,7 @@ function Collab(props: CollabProps) {
           </div>
         </div>
 
-        <Captcha onVerify={setCaptcha} style={{ marginBottom: "15px" }} />
+        {/* <Captcha onVerify={setCaptcha} style={{ marginBottom: "15px" }} /> */}
         <div className="field is-grouped">
           <div className="control">
             <button
