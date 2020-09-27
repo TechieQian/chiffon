@@ -7,7 +7,7 @@ function Shop(props) {
   return (
     <section className={styles.shop}>
       <div className={styles.text}>
-        Shop My Codes Save money using my discount codes for toys, clothes,
+        Shop My Codes: Save money using my discount codes for toys, clothes,
         treats and other supplies!
       </div>
       {sponsors.map((sponsor) => (
