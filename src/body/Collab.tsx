@@ -1,11 +1,9 @@
 import React, { useState } from "react";
 import styles from "./styles/collab.module.scss";
-import Captcha from "./Captcha";
 
 interface CollabProps {}
 
 function Collab(props: CollabProps) {
-  const [captcha, setCaptcha] = useState("");
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
