@@ -10,12 +10,12 @@ const sponsors = [
   },
   {
     link: "https://www.giftspawt.com/?ref=chiffon",
-    label: "Giftspawt",
+    label: "Giftspawt: 10% off",
     code: "CHIFFON10",
   },
   {
     link: "https://pinktailco.com/",
-    label: "PinkTailCo Accessories",
+    label: "PinkTailCo Accessories: 10% off",
     code: "CHIFFON10",
   },
   {
@@ -26,7 +26,7 @@ const sponsors = [
   },
   {
     link: "http://lucyand.co/",
-    label: "Lucy & Co.",
+    label: "Lucy & Co.: 15% off",
     code: "LCCHIFF15",
   },
   {
@@ -36,12 +36,12 @@ const sponsors = [
   },
   {
     link: "https://www.etsy.com/shop/WalkWildCo",
-    label: "WalkWildCo",
+    label: "WalkWildCo: 10% off",
     code: "CHIFFON10",
   },
   {
     link: "https://poisepup.com/discount/CHIFFON20",
-    label: "PoisePup",
+    label: "PoisePup: 20% off",
     code: "CHIFFON20",
   },
   {
