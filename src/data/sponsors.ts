@@ -2,6 +2,8 @@
 // git commit -m "editing sponsors"
 // git push origin master
 
+// npm start
+
 const sponsors = [
   {
     link: "http://amazon.com/shop/chiffonthemaltipoo",

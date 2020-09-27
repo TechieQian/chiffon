@@ -1,5 +1,5 @@
 .hero {
-  background-color: white;
+  background-color: rgb(255, 225, 246);
   .container {
     display: flex;
     padding: 1rem 0;
@@ -41,7 +41,12 @@
   h1 {
     font-family: Parisienne;
     font-size: 80px;
-    color: magenta;
+    color: rgb(187, 11, 119);
+  }
+  h2 {
+    font-family: Parisienne;
+    font-size: 25px;
+    color: rgb(247, 99, 155);
   }
   margin-right: 15px;
   margin-bottom: 15px;

@@ -8,8 +8,8 @@ function Header(props) {
     <section className={`${styles.hero} is-medium`}>
       <div className={`${styles.container} container`}>
         <div className={styles.brand}>
-          <h1 className="title">Chiffon</h1>
-          <h2 className="subtitle">The Maltipoo</h2>
+          <h1 className="title">Chiffon The Maltipoo</h1>
+          <h2 className="subtitle">Charlotte Chiffon: A dancer and fashion model</h2>
           <div className={styles.icons}>
             <a
               href="https://www.instagram.com/chiffonthemaltipoo"
