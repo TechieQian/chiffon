@@ -7,7 +7,8 @@
 const sponsors = [
   {
     link: "http://amazon.com/shop/chiffonthemaltipoo",
-    label: "Amazon Store",
+    label:
+      "Amazon Store (Paid Link): As an Amazon Associate, I earn from qualifying purchases.",
     code: null,
   },
   {
@@ -21,10 +22,15 @@ const sponsors = [
     code: "CHIFFON10",
   },
   {
-    link:
-      "https://www.parisianpet.com/?Click=6069",
+    link: "https://www.parisianpet.com/?Click=6069",
     label: "Parisian Pet: 10% off",
     code: "CHIFFON10",
+  },
+  {
+    link:
+      "http://i.refs.cc/3jn5PukK?smile_ref=http://i.refs.cc/3jn5PukK?smile_ref=eyJzbWlsZV9zb3VyY2UiOiJzbWlsZV91aSIsInNtaWxlX21lZGl1bSI6IiIsInNtaWxlX2NhbXBhaWduIjoicmVmZXJyYWxfcHJvZ3JhbSIsInNtaWxlX2N1c3RvbWVyX2lkIjo0MTMxODczOTl9",
+    label: "Lucy & Co.: $5 off coupon",
+    code: null,
   },
   {
     link: "http://lucyand.co/",
@@ -32,9 +38,20 @@ const sponsors = [
     code: "LCCHIFF15",
   },
   {
+    link:
+      "http://i.refs.cc/4AcWbcPu?smile_ref=eyJzbWlsZV9zb3VyY2UiOiJzbWlsZV91aSIsInNtaWxlX21lZGl1bSI6IiIsInNtaWxlX2NhbXBhaWduIjoicmVmZXJyYWxfcHJvZ3JhbSIsInNtaWxlX2N1c3RvbWVyX2lkIjo2MjY0NDQ4Mjh9",
+    label: "Rebel Dawg: $15 off coupon",
+    code: null,
+  },
+  {
     link: "https://www.poshpuppyboutique.com/",
     label: "PoshPuppy Boutique: 30% off",
     code: "CHIFFON",
+  },
+  {
+    link: "https://www.vanderpumppets.com/",
+    label: "Vanderpump Pets: 15% off",
+    code: "CHIFFON15",
   },
   {
     link: "https://www.etsy.com/shop/WalkWildCo",
