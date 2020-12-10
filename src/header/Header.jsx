@@ -20,20 +20,20 @@ function Header(props) {
               <i className="fab fa-instagram"></i>
             </a>
             <a
-              href="https://www.facebook.com/chiffonthemaltipoo"
-              rel="noreferrer noopener"
-              target="_blank"
-              style={{ marginRight: "15px" }}
-            >
-              <i className="fab fa-facebook"></i>
-            </a>
-            <a
               href="https://vm.tiktok.com/ZMJqSoU9R/"
               rel="noreferrer noopener"
               target="_blank"
               style={{ marginRight: "15px" }}
             >
               <i class="fab fa-tiktok"></i>
+            </a>
+            <a
+              href="https://www.facebook.com/chiffonthemaltipoo"
+              rel="noreferrer noopener"
+              target="_blank"
+              style={{ marginRight: "15px" }}
+            >
+              <i className="fab fa-facebook"></i>
             </a>
             <a
               href="mailto:chiffonthemaltipoo@gmail.com"
