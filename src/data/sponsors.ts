@@ -27,7 +27,7 @@ const sponsors = [
     code: "CHIFFON10",
   },
   {
-    link: "brklz.com//?ref=bb-xz32gw",
+    link: "https://www.brklz.com//?ref=bb-xz32gw",
     label: "BRKLZ: 20% off",
     code: "CHIFF",
   },
