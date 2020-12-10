@@ -31,8 +31,16 @@ function Header(props) {
               href="mailto:chiffonthemaltipoo@gmail.com"
               rel="noreferrer noopener"
               target="_blank"
+              style={{ marginRight: "15px" }}
             >
               <i className="far fa-envelope"></i>
+            </a>
+            <a
+              href="https://vm.tiktok.com/ZMJqSoU9R/"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <i class="fab fa-tiktok"></i>
             </a>
           </div>
         </div>
