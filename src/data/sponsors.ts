@@ -27,6 +27,16 @@ const sponsors = [
     code: "CHIFFON10",
   },
   {
+    link: "brklz.com//?ref=bb-xz32gw",
+    label: "BRKLZ: 20% off",
+    code: "CHIFF",
+  },
+  {
+    link: "https://www.etsy.com/shop/UniqueOpalCo",
+    label: "Unique Opal Co: 10% off",
+    code: "CHIFFON10",
+  },
+  {
     link: "https://max-bone.bop8.net/kn5Wz",
     label: "Max-Bone: 15% off",
     code: "CHIFFON15",
@@ -43,6 +53,11 @@ const sponsors = [
     code: "LCCHIFF15",
   },
   {
+    link: "https://shareasale.com/r.cfm?b=1665965&u=2634834&m=103400&urllink=&afftrack= ",
+    label: "K9 Wear",
+    code: null,
+  },
+  {
     link:
       "http://i.refs.cc/4AcWbcPu?smile_ref=eyJzbWlsZV9zb3VyY2UiOiJzbWlsZV91aSIsInNtaWxlX21lZGl1bSI6IiIsInNtaWxlX2NhbXBhaWduIjoicmVmZXJyYWxfcHJvZ3JhbSIsInNtaWxlX2N1c3RvbWVyX2lkIjo2MjY0NDQ4Mjh9",
     label: "Rebel Dawg: $15 off coupon",
@@ -56,6 +71,11 @@ const sponsors = [
   {
     link: "https://www.vanderpumppets.com/",
     label: "Vanderpump Pets: 15% off",
+    code: "CHIFFON15",
+  },
+  {
+    link: "https://www.etsy.com/shop/pupsnbows",
+    label: "Pupsnbows: 15% off",
     code: "CHIFFON15",
   },
   {
