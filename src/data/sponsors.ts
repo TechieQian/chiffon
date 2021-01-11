@@ -74,6 +74,16 @@ const sponsors = [
     code: "CHIFFON15",
   },
   {
+    link: "https://www.wagandwonder.com/",
+    label: "Wag and Wonder: 10% off",
+    code: "CHIFFON10",
+  },
+  {
+    link: "https://pawstanfurballs.com/",
+    label: "Pawsta N Furballs: 20% off",
+    code: "CHIFFON20",
+  },
+  {
     link: "https://www.etsy.com/shop/pupsnbows",
     label: "Pupsnbows: 15% off",
     code: "CHIFFON15",
