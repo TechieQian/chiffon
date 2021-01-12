@@ -53,6 +53,11 @@ const sponsors = [
     code: "LCCHIFF15",
   },
   {
+    link: "https://shareasale.com/r.cfm?b=1505106&u=2634834&m=95444&urllink=&afftrack= ",
+    label: "Patchwork Pet: Toys",
+    code: null,
+  }, 
+  {
     link: "https://shareasale.com/r.cfm?b=1665965&u=2634834&m=103400&urllink=&afftrack= ",
     label: "K9 Wear",
     code: null,
