@@ -32,8 +32,8 @@ const sponsors = [
     code: "CHIFF",
   },
   {
-    link: "https://www.etsy.com/shop/UniqueOpalCo",
-    label: "Unique Opal Co: 10% off",
+    link: "http://i.refs.cc/k9Il2ZvM?smile_ref=eyJzbWlsZV9zb3VyY2UiOiJzbWlsZV91aSIsInNtaWxlX21lZGl1bSI6IiIsInNtaWxlX2NhbXBhaWduIjoicmVmZXJyYWxfcHJvZ3JhbSIsInNtaWxlX2N1c3RvbWVyX2lkIjo3MjE1OTYyMzl9",
+    label: "Unique Opal Co: $5 off coupon; 10% off with code",
     code: "CHIFFON10",
   },
   {
