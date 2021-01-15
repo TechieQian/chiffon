@@ -44,12 +44,7 @@ const sponsors = [
   {
     link:
       "http://i.refs.cc/3jn5PukK?smile_ref=http://i.refs.cc/3jn5PukK?smile_ref=eyJzbWlsZV9zb3VyY2UiOiJzbWlsZV91aSIsInNtaWxlX21lZGl1bSI6IiIsInNtaWxlX2NhbXBhaWduIjoicmVmZXJyYWxfcHJvZ3JhbSIsInNtaWxlX2N1c3RvbWVyX2lkIjo0MTMxODczOTl9",
-    label: "Lucy & Co.: $5 off coupon",
-    code: null,
-  },
-  {
-    link: "http://lucyand.co/",
-    label: "Lucy & Co.: 15% off",
+    label: "Lucy & Co.: $5 off coupon; 15% off with code",
     code: "LCCHIFF15",
   },
   {
