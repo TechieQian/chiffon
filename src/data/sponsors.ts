@@ -114,16 +114,6 @@ const sponsors = [
     code: "chiffonthemaltipoo",
   },
   {
-    link: "https://www.etsy.com/shop/PulelehuaDesigns",
-    label: "Pulelehua Designs: 20% off",
-    code: "CHIFFON",
-  },
-  {
-    link: "https://www.swagandbrownie.com/",
-    label: "Swag and Brownie: 15% off",
-    code: "CHIFFON",
-  },
-  {
     link:
       "https://star.aliexpress.com/share/share.htm?redirectUrl=https%3A%2F%2Fsale.aliexpress.com%2Freferral_register_success.htm%3FinvitationCode%3DK0I5RzQ4akJ5QzNoV2ViMmpnamF4dkJoK3pQTG1jbmtLODBQVDcyQk45Y0ZWR0phL0VQb1dnPT0%26invitationScenario%3DsocialFission%26mb%3Do5ewodaxoQRG8pX%26srcSns%3DCopy%26tid%3Dold_bring_x_101%26businessType%3DsocialFission&image=H78836f65c5ce470ab86e4b5c8a2b42ad5.jpg&businessType=socialFission&templateId=old_bring_x_101&title=GREAT%20NEWS!%20UP%20TO%20US%20%2424%20IN%20COUPONS!",
     label: "Aliexpress: $24 in coupons",
