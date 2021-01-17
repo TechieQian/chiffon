@@ -24,13 +24,13 @@ function Grooming(props : any) {
 </p>
 <p>It takes patience and practice, but we all know looking beautiful takes hard work. 
 </p>
-<div classname="tile is-ancestor">
-<div classname="tile is-vertical is-8">
-<div classname="tile">
-<div classname="tile is-parent is-vertical">
-<article classname ="tile is-child notification is-primary">
-<p classname ="title">Vertical...</p>
-<p classname="subtitle"> Top tile</p> 
+<div className="tile is-ancestor">
+<div className="tile is-vertical is-8">
+<div className="tile">
+<div className="tile is-parent is-vertical">
+<article className ="tile is-child notification is-primary">
+<p className ="title">Vertical...</p>
+<p className="subtitle"> Top tile</p> 
 </article>
 </div>
 </div>
