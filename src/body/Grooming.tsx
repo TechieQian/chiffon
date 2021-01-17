@@ -27,7 +27,7 @@ function Grooming(props : any) {
 <div className="tile is-ancestor">
 <div className="tile is-vertical is-8">
 <div className="tile">
-<div className="tile is-parent">
+<div className="tile is-parent is-vertical">
 <article className ="tile is-child notification is-danger">
 <p className ="title">Dog Electric Clippers:</p>
 <p className="subtitle"> If your dog has never had electric clippers before, turn it on away from him/her and make sure they are comfortable with the sound. Next, spend a moment to comb through the hair/fur with the clippers turned OFF so they get used to the feeling. If they are comfortable with that, take a few minutes to turn the clippers on and put the handle on their torso to get them used to the vibration. Now, you should be able to use the clippers normally.</p> 
@@ -45,7 +45,12 @@ function Grooming(props : any) {
         </figure>
     </article>
 </div>
-
+<div className="tile is-parent">
+    <article className="tile is-child notification is-info">          
+    <p className="title">Dog Scissors:</p>
+    <p className="subtitle">Some dogs are scared of things coming close to their face (that’s what she said ha). Take it slowly and make sure to hold the pair of scissors horizontally, flat to the face, to avoid any injury. Pretend it’s like a comb, and comb back and forth with the scissors on the muzzle until your dog feels safe enough to close their eyes. Make a snip in the air once in awhile so they get used the sound of the scissors. Repeat on any area where they get scared and go slowly until they get used to it.</p>
+    </article>
+</div>
 
             </div>
     )
