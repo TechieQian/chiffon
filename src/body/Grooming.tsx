@@ -58,6 +58,20 @@ function Grooming(props : any) {
     <p className="subtitle">Some dogs are scared of things coming close to their face. Take it slowly and make sure to hold the pair of scissors horizontally, flat to the face, to avoid any injury. Pretend it’s like a comb, and comb back and forth with the scissors on the muzzle until your dog feels safe enough to close their eyes. Make a snip in the air once in awhile so they get used the sound of the scissors. Repeat on any area where they get scared and go slowly until they get used to it.</p>
     </article>
 </div>
+<div className="tile is-parent">
+    <article className="tile is-child notification is-success">
+        <div className="content">
+        <p className="title">Tall tile</p>
+        <p className="subtitle">With even more content</p>
+        <div className="content">
+          <!-- Content -->
+        </div>    
+        </div>  
+    </article>
+</div>
+
+
+
 
             </div>
     )
