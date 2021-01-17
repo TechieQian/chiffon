@@ -37,7 +37,14 @@ function Grooming(props : any) {
 </div>
 </div>
 <div className="tile is-parent">
-    <article className="tile is-child notification is-info">          
+    <article className="tile is-child notification is-danger">          
+    <p className="title">Dog Electric Clippers:</p>
+    <p className="subtitle">If your dog has never had electric clippers before, turn it on away from him/her and make sure they are comfortable with the sound. Next, spend a moment to comb through the hair/fur with the clippers turned OFF so they get used to the feeling. If they are comfortable with that, take a few minutes to turn the clippers on and put the handle on their torso to get them used to the vibration. Now, you should be able to use the clippers normally.</p>
+    </article>
+</div>
+
+<div className="tile is-parent">
+    <article className="tile is-child notification is-danger">          
     <p className="title">Dog Blow Dryers:</p>
     <p className="subtitle">Turn it on away from your dog to make sure they become accustomed to the noise. Blow from a whole arm’s length away at their torso (NOT their face yet) to get them thinking it's just like a little wind. Once they are used to it, you can blow a little on their face from an arm’s length away. As they become comfortable, bring the blow dryer closer, little by little, being careful of the heat and keep changing the spot you are blowing on until you are able to use the blow dryer without any issues.</p>
          <figure className="image is-2by2">
@@ -46,9 +53,9 @@ function Grooming(props : any) {
     </article>
 </div>
 <div className="tile is-parent">
-    <article className="tile is-child notification is-info">          
+    <article className="tile is-child notification is-danger">          
     <p className="title">Dog Scissors:</p>
-    <p className="subtitle">Some dogs are scared of things coming close to their face (that’s what she said ha). Take it slowly and make sure to hold the pair of scissors horizontally, flat to the face, to avoid any injury. Pretend it’s like a comb, and comb back and forth with the scissors on the muzzle until your dog feels safe enough to close their eyes. Make a snip in the air once in awhile so they get used the sound of the scissors. Repeat on any area where they get scared and go slowly until they get used to it.</p>
+    <p className="subtitle">Some dogs are scared of things coming close to their face. Take it slowly and make sure to hold the pair of scissors horizontally, flat to the face, to avoid any injury. Pretend it’s like a comb, and comb back and forth with the scissors on the muzzle until your dog feels safe enough to close their eyes. Make a snip in the air once in awhile so they get used the sound of the scissors. Repeat on any area where they get scared and go slowly until they get used to it.</p>
     </article>
 </div>
 
