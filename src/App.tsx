@@ -8,6 +8,7 @@ import { Switch, Route } from "react-router-dom";
 import data from "./data/data";
 import Shop from "./body/Shop";
 import Collab from "./body/Collab";
+import Grooming from "./body/Grooming"
 
 function App() {
   return (
@@ -30,12 +31,14 @@ function App() {
             <Shop />
           </Body>
         </Route>
-        {/* <Route path="/portfolio">
-          <Body text={"This is home page"} />
-        </Route> */}
         <Route path="/collaborate">
           <Body>
             <Collab />
+          </Body>
+        </Route>
+        <Route path="/grooming">
+          <Body>
+            <Grooming />
           </Body>
         </Route>
       </Switch>

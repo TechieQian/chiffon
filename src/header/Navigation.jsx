@@ -20,16 +20,19 @@ function Navigation(props) {
             <i className={`${styles.icon} fas fa-paw`}></i>
             Shop My Codes
           </NavLink>
-          {/* <NavLink className={`navbar-item ${styles.navItem}`} to="/portfolio">
-            <i className={`${styles.icon} fas fa-paw`}></i>
-            Portfolio
-          </NavLink> */}
           <NavLink
             className={`navbar-item ${styles.navItem}`}
             to="/collaborate"
           >
             <i className={`${styles.icon} fas fa-paw`}></i>
             Collaborate
+          </NavLink>
+          <NavLink
+            className={`navbar-item ${styles.navItem}`}
+            to="/grooming"
+          >
+            <i className={`${styles.icon} fas fa-paw`}></i>
+            Grooming Tips
           </NavLink>
         </div>
       </div>
