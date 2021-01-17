@@ -9,7 +9,7 @@ function Grooming(props : any) {
 <p>You only have two options:</p>
 <p>1. Continue searching for a groomer you like</p>
 <p>2. Take matters in your hands and do it yourself (I choose to groom Chiffon myself). Here are some of my tips below:</p>
-<p class="px-1"> Horizontal padding</p>
+<p className="px-1"> Horizontal padding</p>
 
 
 <p></p>
