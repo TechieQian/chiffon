@@ -38,10 +38,10 @@ function Grooming(props : any) {
 </div>
 <div className="tile is-parent">
     <article className="tile is-child notification is-info">          
-    <p className="title"> Middle tile</p>
-    <p className="subtitle">With an image</p>
-         <figure className="image is-4by3">
-            <img src="https://images.app.goo.gl/MidXZNu3ccSJVo636">
+    <p className="title">Dog Blow Dryers:</p>
+    <p className="subtitle">Turn it on away from your dog to make sure they become accustomed to the noise. Blow from a whole arm’s length away at their torso (NOT their face yet) to get them thinking it's just like a little wind. Once they are used to it, you can blow a little on their face from an arm’s length away. As they become comfortable, bring the blow dryer closer, little by little, being careful of the heat and keep changing the spot you are blowing on until you are able to use the blow dryer without any issues.</p>
+         <figure className="image is-2by2">
+            <img src="https://images.app.goo.gl/MidXZNu3ccSJVo636"></img>  
         </figure>
     </article>
 </div>
