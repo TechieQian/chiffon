@@ -29,8 +29,8 @@ function Grooming(props : any) {
 <div className="tile">
 <div className="tile is-parent is-vertical">
 <article className ="tile is-child notification is-primary">
-<p className ="title">Vertical...</p>
-<p className="subtitle"> Top tile</p> 
+<p className ="title">Dog Electric Clippers:</p>
+<p className="subtitle"> If your dog has never had electric clippers before, turn it on away from him/her and make sure they are comfortable with the sound. Next, spend a moment to comb through the hair/fur with the clippers turned OFF so they get used to the feeling. If they are comfortable with that, take a few minutes to turn the clippers on and put the handle on their torso to get them used to the vibration. Now, you should be able to use the clippers normally.</p> 
 </article>
 </div>
 </div>
