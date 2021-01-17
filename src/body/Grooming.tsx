@@ -32,7 +32,10 @@ function Grooming(props : any) {
 <p classname ="title">Vertical...</p>
 <p classname="subtitle"> Top tile</p> 
 </article>
-
+</div>
+</div>
+</div>
+</div>
 
 
             </div>
