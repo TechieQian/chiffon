@@ -84,6 +84,11 @@ const sponsors = [
     code: "CHIFFON20",
   },
   {
+    link: "https://dogcrushboutique.com/",
+    label: "Dog Crush Boutique: 10% off",
+    code: "CHIFFON10",
+  },
+  {
     link: "https://www.etsy.com/shop/pupsnbows",
     label: "Pupsnbows: 15% off",
     code: "CHIFFON15",
