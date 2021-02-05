@@ -64,6 +64,11 @@ const sponsors = [
     code: null,
   },
   {
+    link: "https://www.instagram.com/pawsluxury",
+    label: "Paws Luxury: 15% off",
+    code: "CHIFFON15",
+  },
+  {
     link: "https://www.poshpuppyboutique.com/",
     label: "PoshPuppy Boutique: 30% off",
     code: "CHIFFON",
@@ -71,6 +76,11 @@ const sponsors = [
   {
     link: "https://www.vanderpumppets.com/",
     label: "Vanderpump Pets: 15% off",
+    code: "CHIFFON15",
+  },
+  {
+    link: "https://www.etsy.com/shop/Mariposandco",
+    label: "Mariposa & Co: 15% off",
     code: "CHIFFON15",
   },
   {
