@@ -8,8 +8,9 @@ const sponsors = [
   {
     link: "http://amazon.com/shop/chiffonthemaltipoo",
     label:
-      "Amazon Store (Paid Link): As an Amazon Associate, I earn from qualifying purchases.",
+      "Amazon Store",
     code: null,
+    subtitle: " Check out my favorite items on Amazon! (Paid Link) As an Amazon Associate, I earn from qualifying purchases."
   },
   {
     link: "https://www.etsy.com/shop/MissSophieBowtique",
@@ -48,6 +49,30 @@ const sponsors = [
     subtitle: "Custom tutus, dog bandanas and hoodies",
   },
   {
+    link: "https://www.instagram.com/pawsluxury",
+    label: "Paws Luxury: 15% off",
+    code: "CHIFFON15",
+    subtitle: "Fashion clothing and accessories",
+  },
+  {
+    link: "https://www.etsy.com/shop/Mariposandco",
+    label: "Mariposa & Co: 15% off",
+    code: "CHIFFON15",
+    subtitle: "Bows and bandanas",
+  },
+  {
+    link: "https://pawstanfurballs.com/",
+    label: "Pawsta N Furballs: 20% off",
+    code: "CHIFFON20",
+    subtitle: "Dog tutus and bandanas",
+  },
+  {
+    link: "https://dogcrushboutique.com/",
+    label: "Dog Crush Boutique: 10% off",
+    code: "CHIFFON10",
+    subtitle: "Dog clothing, accessories, and more"
+  },
+  {
     link: "https://max-bone.bop8.net/kn5Wz",
     label: "Max-Bone: 15% off",
     code: "CHIFFON15",
@@ -59,6 +84,18 @@ const sponsors = [
     label: "Lucy & Co.: $5 off coupon; 15% off with code",
     code: "LCCHIFF15",
     subtitle: "Outerwear, walk accessories, and more",
+  },
+  {
+    link: "http://rwrd.io/kfdeenw?c",
+    label: "Honest Kitchen: $10 off first order of $20+; 10% off with code",
+    code: "CHIFFON10",
+    subtitle: "Dog food and treats",
+  },
+  {
+    link: "https://www.poshpuppyboutique.com/",
+    label: "PoshPuppy Boutique: 30% off",
+    code: "CHIFFON",
+    subtitle: "One stop shop with clothing, accessories and more",
   },
   {
     link: "https://shareasale.com/r.cfm?b=1505106&u=2634834&m=95444&urllink=&afftrack= ",
@@ -79,24 +116,7 @@ const sponsors = [
     code: null,
     subtitle: "Stylish tags",
   },
-  {
-    link: "https://www.instagram.com/pawsluxury",
-    label: "Paws Luxury: 15% off",
-    code: "CHIFFON15",
-    subtitle: "Fashion clothing and accessories",
-  },
-  {
-    link: "http://rwrd.io/kfdeenw?c",
-    label: "Honest Kitchen: $10 off first order of $20+; 10% off with code",
-    code: "CHIFFON10",
-    subtitle: "Dog food and treats",
-  },
-  {
-    link: "https://www.poshpuppyboutique.com/",
-    label: "PoshPuppy Boutique: 30% off",
-    code: "CHIFFON",
-    subtitle: "One stop shop with clothing, accessories and more",
-  },
+
   {
     link: "https://www.vanderpumppets.com/",
     label: "Vanderpump Pets: 15% off",
@@ -104,28 +124,10 @@ const sponsors = [
   
   },
   {
-    link: "https://www.etsy.com/shop/Mariposandco",
-    label: "Mariposa & Co: 15% off",
-    code: "CHIFFON15",
-    subtitle: "Bows and bandanas",
-  },
-  {
     link: "https://www.wagandwonder.com/",
     label: "Wag and Wonder: 10% off",
     code: "CHIFFON10",
     subtitle: "Dog walk accessories"
-  },
-  {
-    link: "https://pawstanfurballs.com/",
-    label: "Pawsta N Furballs: 20% off",
-    code: "CHIFFON20",
-    subtitle: "Dog tutus and bandanas",
-  },
-  {
-    link: "https://dogcrushboutique.com/",
-    label: "Dog Crush Boutique: 10% off",
-    code: "CHIFFON10",
-    subtitle: "Dog clothing, accessories, and more"
   },
   {
     link: "https://poisepup.com/discount/CHIFFON20",
@@ -144,6 +146,7 @@ const sponsors = [
       "https://star.aliexpress.com/share/share.htm?redirectUrl=https%3A%2F%2Fsale.aliexpress.com%2Freferral_register_success.htm%3FinvitationCode%3DK0I5RzQ4akJ5QzNoV2ViMmpnamF4dkJoK3pQTG1jbmtLODBQVDcyQk45Y0ZWR0phL0VQb1dnPT0%26invitationScenario%3DsocialFission%26mb%3Do5ewodaxoQRG8pX%26srcSns%3DCopy%26tid%3Dold_bring_x_101%26businessType%3DsocialFission&image=H78836f65c5ce470ab86e4b5c8a2b42ad5.jpg&businessType=socialFission&templateId=old_bring_x_101&title=GREAT%20NEWS!%20UP%20TO%20US%20%2424%20IN%20COUPONS!",
     label: "Aliexpress: $24 in coupons",
     code: "INAZ9RUS",
+    subtitle: "Dog clothing and accessories"
   },
 ];
 
