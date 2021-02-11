@@ -8,12 +8,13 @@ interface SponsorProps {
 
 function Sponsor(props: SponsorProps) {
   const { sponsor } = props;
-  const { label, link, code } = sponsor;
+  const { label, link, code, subtitle = ""} = sponsor;
   return (
     <div className={`columns`}>
       <div className="column">
         <div>
           <a href={link}>{label}</a>
+          <div style={{fontSize : "14px"}}>{subtitle}</div>
         </div>
       </div>
       <div className="column">{code && <Coupon text={code} />}</div>
