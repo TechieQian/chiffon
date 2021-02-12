@@ -55,6 +55,12 @@ const sponsors = [
     subtitle: "Fashion clothing and accessories",
   },
   {
+    link: "https://wowwowpetz.com/",
+    label: "Wow Wow Petz: 25% off",
+    code: "CHIFFON25",
+    subtitle: "Pet apparel",
+  },
+  {
     link: "https://www.etsy.com/shop/Mariposandco",
     label: "Mariposa & Co: 15% off",
     code: "CHIFFON15",
