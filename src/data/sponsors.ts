@@ -31,12 +31,6 @@ const sponsors = [
     subtitle: "Walk accessories (leashes, collars), bows and bandanas",
   },
   {
-    link: "https://www.parisianpet.com/?Click=6069",
-    label: "Parisian Pet: 10% off",
-    code: "CHIFFON10",
-    subtitle: "Pet clothing (Tees, dresses, sleepwear and more)",
-  },
-  {
     link: "https://www.brklz.com//?ref=bb-xz32gw",
     label: "BRKLZ: 20% off",
     code: "CHIFF",
@@ -49,10 +43,22 @@ const sponsors = [
     subtitle: "Custom tutus, dog bandanas and hoodies",
   },
   {
+    link: "http://www.poshpuppyboutique.com/discount/CHIFFON",
+    label: "PoshPuppy Boutique: 30% off",
+    code: "CHIFFON",
+    subtitle: "One stop shop with clothing, accessories and more",
+  },
+  {
     link: "https://www.instagram.com/pawsluxury",
     label: "Paws Luxury: 15% off",
     code: "CHIFFON15",
     subtitle: "Fashion clothing and accessories",
+  },
+  {
+    link: "https://www.parisianpet.com/?Click=6069",
+    label: "Parisian Pet: 10% off",
+    code: "CHIFFON10",
+    subtitle: "Pet clothing (Tees, dresses, sleepwear and more)",
   },
   {
     link: "https://wowwowpetz.com/",
@@ -96,12 +102,6 @@ const sponsors = [
     label: "Honest Kitchen: $10 off first order of $20+; 10% off with code",
     code: "CHIFFON10",
     subtitle: "Dog food and treats",
-  },
-  {
-    link: "https://www.poshpuppyboutique.com/",
-    label: "PoshPuppy Boutique: 30% off",
-    code: "CHIFFON",
-    subtitle: "One stop shop with clothing, accessories and more",
   },
   {
     link: "https://shareasale.com/r.cfm?b=1505106&u=2634834&m=95444&urllink=&afftrack= ",
