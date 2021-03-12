@@ -81,7 +81,7 @@ const sponsors = [
   {
     link: "https://dogcrushboutique.com/",
     label: "Dog Crush Boutique: 10% off",
-    code: "CHIFFON10",
+    code: "CHIFFON15",
     subtitle: "Dog clothing, accessories, and more"
   },
   {
