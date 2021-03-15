@@ -104,6 +104,12 @@ const sponsors = [
     subtitle: "Dog food and treats",
   },
   {
+    link: "browze.com/?UTM_source=brandbassador_medium=affiliate&ref=bb-xz32gw",
+    label: "Browze: 10% off with code",
+    code: "DCCHIFFON",
+    subtitle: "Home, kitchen, all kinds of supplies for humans and  pets!",
+  },
+  {
     link: "https://shareasale.com/r.cfm?b=1505106&u=2634834&m=95444&urllink=&afftrack= ",
     label: "Patchwork Pet",
     code: null,
