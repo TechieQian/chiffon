@@ -80,9 +80,15 @@ const sponsors = [
   },
   {
     link: "https://dogcrushboutique.com/",
-    label: "Dog Crush Boutique: 10% off",
+    label: "Dog Crush Boutique: 15% off",
     code: "CHIFFON15",
     subtitle: "Dog clothing, accessories, and more"
+  },
+  {
+    link: "https://www.etsy.com/shop/Rainebowandco",
+    label: "Raine Bow + Co: 15% off",
+    code: "CHIFFON15",
+    subtitle: "Dog hairbows"
   },
   {
     link: "https://max-bone.bop8.net/kn5Wz",
