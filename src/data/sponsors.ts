@@ -19,11 +19,12 @@ const sponsors = [
     subtitle : "Handmade clothing, harness dresses and accessories",
   },
   {
-    link: "https://www.giftspawt.com/?ref=chiffon",
-    label: "Giftspawt: 10% off",
+    link: "https://www.rifrufqueens.com/?ref=ng9-sipe4wz",
+    label: "RifRufQueens: 10% off",
     code: "CHIFFON10",
-    subtitle: "Toys, gift sets and more",
+    subtitle: "My favorite dog sneakers",
   },
+
   {
     link: "https://pinktailco.com/",
     label: "PinkTailCo: 10% off",
@@ -35,6 +36,18 @@ const sponsors = [
     label: "BRKLZ: 20% off",
     code: "CHIFF",
     subtitle: "Over the collar dog jewelry",
+  }, 
+  {
+    link: "http://www.poshpuppyboutique.com/discount/CHIFFON",
+    label: "PoshPuppy Boutique: 30% off",
+    code: "CHIFFON",
+    subtitle: "One stop shop with clothing, accessories and more",
+  },  
+  {
+    link: "https://www.giftspawt.com/?ref=chiffon",
+    label: "Giftspawt: 10% off",
+    code: "CHIFFON10",
+    subtitle: "Toys, gift sets and more",
   },
   {
     link: "http://i.refs.cc/k9Il2ZvM?smile_ref=eyJzbWlsZV9zb3VyY2UiOiJzbWlsZV91aSIsInNtaWxlX21lZGl1bSI6IiIsInNtaWxlX2NhbXBhaWduIjoicmVmZXJyYWxfcHJvZ3JhbSIsInNtaWxlX2N1c3RvbWVyX2lkIjo3MjE1OTYyMzl9",
@@ -42,12 +55,7 @@ const sponsors = [
     code: "CHIFFON10",
     subtitle: "Custom tutus, dog bandanas and hoodies",
   },
-  {
-    link: "http://www.poshpuppyboutique.com/discount/CHIFFON",
-    label: "PoshPuppy Boutique: 30% off",
-    code: "CHIFFON",
-    subtitle: "One stop shop with clothing, accessories and more",
-  },
+
   {
     link: "https://www.instagram.com/pawsluxury",
     label: "Paws Luxury: 15% off",
@@ -112,8 +120,14 @@ const sponsors = [
   {
     link: "browze.com/?UTM_source=brandbassador_medium=affiliate&ref=bb-xz32gw",
     label: "Browze: 10% off with code",
-    code: "DCCHIFFON",
+    code: "BCREWCHIFF",
     subtitle: "Home, kitchen, all kinds of supplies for humans and  pets!",
+  },
+  {
+    link: "https://www.thehappyhowl.com/?ref=chiffon",
+    label: "Happy Howl",
+    code: null,
+    subtitle: "Wholesome ingredient dog food",
   },
   {
     link: "https://shareasale.com/r.cfm?b=1505106&u=2634834&m=95444&urllink=&afftrack= ",
