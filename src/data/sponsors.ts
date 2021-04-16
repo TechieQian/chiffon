@@ -24,7 +24,6 @@ const sponsors = [
     code: "CHIFFON10",
     subtitle: "My favorite dog sneakers",
   },
-
   {
     link: "https://pinktailco.com/",
     label: "PinkTailCo: 10% off",
@@ -55,13 +54,6 @@ const sponsors = [
     code: "CHIFFON10",
     subtitle: "Custom tutus, dog bandanas and hoodies",
   },
-
-  {
-    link: "https://www.instagram.com/pawsluxury",
-    label: "Paws Luxury: 15% off",
-    code: "CHIFFON15",
-    subtitle: "Fashion clothing and accessories",
-  },
   {
     link: "https://www.parisianpet.com/?Click=6069",
     label: "Parisian Pet: 10% off",
@@ -69,11 +61,17 @@ const sponsors = [
     subtitle: "Pet clothing (Tees, dresses, sleepwear and more)",
   },
   {
-    link: "https://wowwowpetz.com/",
-    label: "Wow Wow Petz: 25% off",
-    code: "CHIFFON25",
-    subtitle: "Pet apparel",
+    link: "https://www.etsy.com/shop/ruaillebuailleco",
+    label: "Ruaille Buaille Co: 10% off",
+    code: "CHIFFON",
+    subtitle: "Handmade Flower Crowns and other creations",
   },
+  //{
+  //  link: "https://wowwowpetz.com/",
+  //  label: "Wow Wow Petz: 25% off",
+  //  code: "CHIFFON25",
+  //  subtitle: "Pet apparel",
+  //},
   {
     link: "https://www.etsy.com/shop/Mariposandco",
     label: "Mariposa & Co: 15% off",
@@ -91,12 +89,6 @@ const sponsors = [
     label: "Dog Crush Boutique: 15% off",
     code: "CHIFFON15",
     subtitle: "Dog clothing, accessories, and more"
-  },
-  {
-    link: "https://www.etsy.com/shop/Rainebowandco",
-    label: "Raine Bow + Co: 15% off",
-    code: "CHIFFON15",
-    subtitle: "Dog hairbows"
   },
   {
     link: "https://max-bone.bop8.net/kn5Wz",
@@ -161,25 +153,17 @@ const sponsors = [
     code: "INAZ9RUS",
     subtitle: "Dog clothing and accessories"
   },
-  {
-    link:
-      "https://www.omb-shop.com/?utm_source=Influencer&utm_medium=Influencer&utm_campaign=Chiffon"
-    label: "OH! My Brand",
-    code: "CHIFFON20",
-    subtitle: "Custom clothing with your pet on them",
-  },
-  {
-    link: "https://www.vanderpumppets.com/",
-    label: "Vanderpump Pets: 15% off",
-    code: "CHIFFON15",
-  
-  },
-  {
-    link: "https://www.wagandwonder.com/",
-    label: "Wag and Wonder: 10% off",
-    code: "CHIFFON10",
-    subtitle: "Dog walk accessories"
-  },
+//  {
+  //  link: "https://www.vanderpumppets.com/",
+    //label: "Vanderpump Pets: 15% off",
+    //code: "CHIFFON15",
+  //},
+  //{
+   // link: "https://www.wagandwonder.com/",
+    //label: "Wag and Wonder: 10% off",
+   // code: "CHIFFON10",
+   // subtitle: "Dog walk accessories"
+  //},
   {
     link: "https://poisepup.com/discount/CHIFFON20",
     label: "PoisePup: 20% off",
