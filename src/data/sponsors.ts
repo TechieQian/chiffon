@@ -6,6 +6,13 @@
 
 const sponsors = [
   {
+    link: "https://www.liketoknow.it/ChiffonTheMaltipoo",
+    label:
+      "Like to Know it",
+    code: null,
+    subtitle: "Shop directly from my photos! Some of my favorite clothes and toys!"
+  },
+  {
     link: "http://amazon.com/shop/chiffonthemaltipoo",
     label:
       "Amazon Store",
