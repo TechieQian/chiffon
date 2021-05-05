@@ -50,6 +50,12 @@ const sponsors = [
     subtitle: "One stop shop with clothing, accessories and more",
   },  
   {
+    link: "https://dogcrushboutique.com/",
+    label: "Dog Crush Boutique: 15% off",
+    code: "CHIFFON",
+    subtitle: "Dog clothing, accessories, and more"
+  },
+  {
     link: "https://www.giftspawt.com/?ref=chiffon",
     label: "Giftspawt: 10% off",
     code: "CHIFFON10",
@@ -80,22 +86,16 @@ const sponsors = [
   //  subtitle: "Pet apparel",
   //},
   {
-    link: "https://www.etsy.com/shop/Mariposandco",
-    label: "Mariposa & Co: 15% off",
-    code: "CHIFFON15",
-    subtitle: "Bows and bandanas",
-  },
-  {
     link: "https://pawstanfurballs.com/",
     label: "Pawsta N Furballs: 20% off",
     code: "CHIFFON20",
     subtitle: "Dog tutus and bandanas",
   },
   {
-    link: "https://dogcrushboutique.com/",
-    label: "Dog Crush Boutique: 15% off",
+    link: "https://www.etsy.com/shop/Mariposandco",
+    label: "Mariposa & Co: 15% off",
     code: "CHIFFON15",
-    subtitle: "Dog clothing, accessories, and more"
+    subtitle: "Bows and bandanas",
   },
   {
     link: "https://max-bone.bop8.net/kn5Wz",
