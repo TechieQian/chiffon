@@ -32,10 +32,10 @@ const sponsors = [
     subtitle: "My favorite dog sneakers",
   },
   {
-    link: "https://pinktailco.com/",
+    link: "http://Pinktailco.com/discount/CHIFFON10",
     label: "PinkTailCo: 10% off",
     code: "CHIFFON10",
-    subtitle: "Walk accessories (leashes, collars), bows and bandanas",
+    subtitle: "Walk accessories (harnesses, leashes, collars), bows and bandanas",
   },
   {
     link: "https://www.brklz.com//?ref=bb-xz32gw",
