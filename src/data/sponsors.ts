@@ -56,6 +56,12 @@ const sponsors = [
     subtitle: "Dog clothing, accessories, and more"
   },
   {
+    link: "https://www.blueberrypet.com/?ref=ng9-sipe4wz",
+    label: "Blueberry Pet: 10% off",
+    code: "CHIFFON10",
+    subtitle: "Harnesses, harness dresses, collars, leashes and clothes",
+  },
+  {
     link: "https://www.giftspawt.com/?ref=chiffon",
     label: "Giftspawt: 10% off",
     code: "CHIFFON10",
