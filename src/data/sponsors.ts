@@ -5,26 +5,13 @@
 // npm start
 
 const sponsors = [
+
   {
-    link: "https://www.liketoknow.it/ChiffonTheMaltipoo",
-    label:
-      "Like to Know it",
-    code: null,
-    subtitle: "Shop directly from my photos! Some of my favorite clothes and toys!"
-  },
-  {
-    link: "http://amazon.com/shop/chiffonthemaltipoo",
-    label:
-      "Amazon Store",
-    code: null,
-    subtitle: " Check out my favorite items on Amazon! (Paid Link) As an Amazon Associate, I earn from qualifying purchases."
-  },
-  {
-    link: "https://www.etsy.com/shop/MissSophieBowtique",
-    label: "Miss Sophie Bowtique: 15% off",
-    code: "CHIFFON15",
-    subtitle : "Handmade clothing, harness dresses and accessories",
-  },
+    link: "http://www.poshpuppyboutique.com/discount/CHIFFON",
+    label: "PoshPuppy Boutique: 35% off",
+    code: "CHIFFON",
+    subtitle: "One stop shop with clothing, accessories and more",
+  },  
   {
     link: "https://www.rifrufqueens.com/?ref=ng9-sipe4wz",
     label: "RifRufQueens: 10% off",
@@ -44,16 +31,30 @@ const sponsors = [
     subtitle: "Over the collar dog jewelry",
   }, 
   {
-    link: "http://www.poshpuppyboutique.com/discount/CHIFFON",
-    label: "PoshPuppy Boutique: 30% off",
-    code: "CHIFFON",
-    subtitle: "One stop shop with clothing, accessories and more",
-  },  
-  {
     link: "https://dogcrushboutique.com/",
     label: "Dog Crush Boutique: 15% off",
     code: "CHIFFON",
     subtitle: "Dog clothing, accessories, and more"
+  },
+  {
+    link: "https://www.etsy.com/shop/MissSophieBowtique",
+    label: "Miss Sophie Bowtique: 15% off",
+    code: "CHIFFON15",
+    subtitle : "Handmade clothing, harness dresses and accessories",
+  },
+  {
+    link: "https://www.liketoknow.it/ChiffonTheMaltipoo",
+    label:
+      "Like to Know it",
+    code: null,
+    subtitle: "Shop directly from my photos! Some of my favorite clothes and toys!"
+  },
+  {
+    link: "http://amazon.com/shop/chiffonthemaltipoo",
+    label:
+      "Amazon Store",
+    code: null,
+    subtitle: " Check out my favorite items on Amazon! (Paid Link) As an Amazon Associate, I earn from qualifying purchases."
   },
   {
     link: "https://www.blueberrypet.com/?ref=ng9-sipe4wz",
@@ -92,17 +93,17 @@ const sponsors = [
   //  subtitle: "Pet apparel",
   //},
   {
-    link: "https://pawstanfurballs.com/",
+    link: "https://pawstanfurballs.com?Pawstapack=2PBMJ4AIE2",
     label: "Pawsta N Furballs: 20% off",
     code: "CHIFFON20",
     subtitle: "Dog tutus and bandanas",
   },
-  {
-    link: "https://www.etsy.com/shop/Mariposandco",
-    label: "Mariposa & Co: 15% off",
-    code: "CHIFFON15",
-    subtitle: "Bows and bandanas",
-  },
+  //{
+    //link: "https://www.etsy.com/shop/Mariposandco",
+    //label: "Mariposa & Co: 15% off",
+    //code: "CHIFFON15",
+    //subtitle: "Bows and bandanas",
+  //},
   {
     link: "https://max-bone.bop8.net/kn5Wz",
     label: "Max-Bone: 15% off",
@@ -117,8 +118,8 @@ const sponsors = [
     subtitle: "Outerwear, walk accessories, and more",
   },
   {
-    link: "http://rwrd.io/kfdeenw?c",
-    label: "Honest Kitchen: $10 off first order of $20+; 10% off with code",
+    link: "https://prf.hn/click/camref:1101ljdjJ/creativeref:1101l62969",
+    label: "Honest Kitchen: 10% off with code",
     code: "CHIFFON10",
     subtitle: "Dog food and treats",
   },
@@ -128,31 +129,31 @@ const sponsors = [
     code: "BCREWCHIFF",
     subtitle: "Home, kitchen, all kinds of supplies for humans and  pets!",
   },
-  {
-    link: "https://www.thehappyhowl.com/?ref=chiffon",
-    label: "Happy Howl",
-    code: null,
-    subtitle: "Wholesome ingredient dog food",
-  },
+  //{
+  //  link: "https://www.thehappyhowl.com/?ref=chiffon",
+  //  label: "Happy Howl",
+  //  code: null,
+  //  subtitle: "Wholesome ingredient dog food",
+  //},
   {
     link: "https://shareasale.com/r.cfm?b=1505106&u=2634834&m=95444&urllink=&afftrack= ",
     label: "Patchwork Pet",
     code: null,
     subtitle: "Toys",
   }, 
-  {
-    link: "https://shareasale.com/r.cfm?b=1665965&u=2634834&m=103400&urllink=&afftrack= ",
-    label: "K9 Wear",
-    code: null,
-    subtitle: "Harness outfits",
-  },
-  {
-    link:
-      "http://i.refs.cc/4AcWbcPu?smile_ref=eyJzbWlsZV9zb3VyY2UiOiJzbWlsZV91aSIsInNtaWxlX21lZGl1bSI6IiIsInNtaWxlX2NhbXBhaWduIjoicmVmZXJyYWxfcHJvZ3JhbSIsInNtaWxlX2N1c3RvbWVyX2lkIjo2MjY0NDQ4Mjh9",
-    label: "Rebel Dawg: $15 off coupon",
-    code: null,
-    subtitle: "Stylish tags",
-  },  
+  //{
+    //link: "https://shareasale.com/r.cfm?b=1665965&u=2634834&m=103400&urllink=&afftrack= ",
+    //label: "K9 Wear",
+   // code: null,
+   // subtitle: "Harness outfits",
+  //},
+  //{
+  //  link:
+  //    "http://i.refs.cc/4AcWbcPu?smile_ref=eyJzbWlsZV9zb3VyY2UiOiJzbWlsZV91aSIsInNtaWxlX21lZGl1bSI6IiIsInNtaWxlX2NhbXBhaWduIjoicmVmZXJyYWxfcHJvZ3JhbSIsInNtaWxlX2N1c3RvbWVyX2lkIjo2MjY0NDQ4Mjh9",
+  //  label: "Rebel Dawg: $15 off coupon",
+   // code: null,
+   // subtitle: "Stylish tags",
+  //},  
   {
     link: "https://www.yesstyle.com/en/home.html?rco=CHIFFON",
     label: "YesStyle",
@@ -177,12 +178,12 @@ const sponsors = [
    // code: "CHIFFON10",
    // subtitle: "Dog walk accessories"
   //},
-  {
-    link: "https://poisepup.com/discount/CHIFFON20",
-    label: "PoisePup: 20% off",
-    code: "CHIFFON20",
-    subtitle: "Dog walk accessories"
-  },
+  //{
+  //  link: "https://poisepup.com/discount/CHIFFON20",
+  //  label: "PoisePup: 20% off",
+  //  code: "CHIFFON20",
+  //  subtitle: "Dog walk accessories"
+ // },
 
 ];
 
