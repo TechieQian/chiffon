@@ -5,7 +5,12 @@
 // npm start
 
 const sponsors = [
-
+  {
+    link: "www.browze.com/?utm_source=brandbassador&utm_medium=affiliate&ref=bb-xz32gw",
+    label: "Browze: 50% off first order or 10% off with code",
+    code: "BCREWCHIFF",
+    subtitle: "Home, kitchen, all kinds of supplies for humans and  pets!",
+  },
   {
     link: "http://www.poshpuppyboutique.com/discount/CHIFFON",
     label: "PoshPuppy Boutique: 35% off",
@@ -123,12 +128,7 @@ const sponsors = [
     code: "CHIFFON10",
     subtitle: "Dog food and treats",
   },
-  {
-    link: "browze.com/?UTM_source=brandbassador_medium=affiliate&ref=bb-xz32gw",
-    label: "Browze: 10% off with code",
-    code: "BCREWCHIFF",
-    subtitle: "Home, kitchen, all kinds of supplies for humans and  pets!",
-  },
+
   //{
   //  link: "https://www.thehappyhowl.com/?ref=chiffon",
   //  label: "Happy Howl",
