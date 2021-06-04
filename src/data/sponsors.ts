@@ -6,7 +6,7 @@
 
 const sponsors = [
   {
-    link: "www.browze.com/?utm_source=brandbassador&utm_medium=affiliate&ref=bb-xz32gw",
+    link: "http://www.browze.com/?utm_source=brandbassador&utm_medium=affiliate&ref=bb-xz32gw",
     label: "Browze: 50% off first order or 10% off with code",
     code: "BCREWCHIFF",
     subtitle: "Home, kitchen, all kinds of supplies for humans and  pets!",
