@@ -6,12 +6,6 @@
 
 const sponsors = [
   {
-    link: "http://www.browze.com/?utm_source=brandbassador&utm_medium=affiliate&ref=bb-xz32gw",
-    label: "Browze: 50% off first order or 10% off with code",
-    code: "BCREWCHIFF",
-    subtitle: "Home, kitchen, all kinds of supplies for humans and  pets!",
-  },
-  {
     link: "http://www.poshpuppyboutique.com/discount/CHIFFON",
     label: "PoshPuppy Boutique: 35% off",
     code: "CHIFFON",
@@ -40,6 +34,12 @@ const sponsors = [
     label: "Dog Crush Boutique: 15% off",
     code: "CHIFFON",
     subtitle: "Dog clothing, accessories, and more"
+  },
+  {
+    link: "http://www.browze.com/?utm_source=brandbassador&utm_medium=affiliate&ref=bb-xz32gw",
+    label: "Browze: 50% off first order or 10% off with code",
+    code: "BCREWCHIFF",
+    subtitle: "Home, kitchen, all kinds of supplies for humans and  pets!",
   },
   {
     link: "https://www.etsy.com/shop/MissSophieBowtique",
