@@ -103,12 +103,12 @@ const sponsors = [
     code: "CHIFFON20",
     subtitle: "Dog tutus and bandanas",
   },
-  //{
-    //link: "https://www.etsy.com/shop/Mariposandco",
-    //label: "Mariposa & Co: 15% off",
-    //code: "CHIFFON15",
-    //subtitle: "Bows and bandanas",
-  //},
+  {
+    link: "https://www.etsy.com/shop/Mariposandco",
+    label: "Mariposa & Co: 10% off",
+    code: "CHIFFON",
+    subtitle: "Hairbows, sailor bows and bandanas",
+  },
   {
     link: "https://max-bone.bop8.net/kn5Wz",
     label: "Max-Bone: 15% off",
