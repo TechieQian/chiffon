@@ -12,7 +12,7 @@ const sponsors = [
     subtitle: "One stop shop with clothing, accessories and more",
   },  
   {
-    link: "https://www.rifrufqueens.com/?ref=ng9-sipe4wz",
+    link: "https://www.rifrufqueens.com/?ref=ng9-sipe4wz""https://rifruf-the-sneaker-your-dog.kckb.st/b82f977d",
     label: "RifRufQueens: 10% off",
     code: "CHIFFON10",
     subtitle: "My favorite dog sneakers",
