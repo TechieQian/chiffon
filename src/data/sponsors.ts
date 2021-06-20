@@ -11,13 +11,16 @@ const sponsors = [
     code: "CHIFFON",
     subtitle: "One stop shop with clothing, accessories and more",
   },  
+  
   {
     link: "https://www.rifrufqueens.com/?ref=ng9-sipe4wz",
     label: "RifRufQueens: 10% off",
-    link: "https://rifruf-the-sneaker-your-dog.kckb.st/b82f977d",
-    label: "RifRufQueens: Kickstarter Campaign: Pledge to access new colorways & styles",
     code: "CHIFFON10",
     subtitle: "My favorite dog sneakers",
+  },
+  {   link: "https://rifruf-the-sneaker-your-dog.kckb.st/b82f977d",
+  label: "RifRufQueens: Kickstarter Campaign",
+  subtitle: "Pledge to get first access new colorways & styles of dog sneakers!",
   },
   {
     link: "http://Pinktailco.com/discount/CHIFFON10",
