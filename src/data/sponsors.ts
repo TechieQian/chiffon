@@ -35,7 +35,7 @@ const sponsors = [
     subtitle: "Over the collar dog jewelry",
   }, 
   {
-    link: "https://dogcrushboutique.com/",
+    link: "https://dogcrushboutique.com/discount/CHIFFON",
     label: "Dog Crush Boutique: 15% off",
     code: "CHIFFON",
     subtitle: "Dog clothing, accessories, and more"
