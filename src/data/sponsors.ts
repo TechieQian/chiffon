@@ -18,10 +18,10 @@ const sponsors = [
     code: "CHIFFON10",
     subtitle: "My favorite dog sneakers",
   },
-  {   link: "https://rifruf-the-sneaker-your-dog.kckb.st/b82f977d",
-  label: "RifRufQueens: Kickstarter Campaign",
-  subtitle: "Pledge to get first access new colorways & styles of dog sneakers!",
-  },
+  //{   link: "https://rifruf-the-sneaker-your-dog.kckb.st/b82f977d",
+  //label: "RifRufQueens: Kickstarter Campaign",
+  //subtitle: "Pledge to get first access new colorways & styles of dog sneakers!",
+  //},
   {
     link: "http://Pinktailco.com/discount/CHIFFON10",
     label: "PinkTailCo: 10% off",
@@ -45,12 +45,6 @@ const sponsors = [
     label: "Browze: 50% off first order or 25% off with code",
     code: "BCREWCHIFFON",
     subtitle: "Home, kitchen, all kinds of supplies for humans and  pets!",
-  },
-  {
-    link: "https://www.etsy.com/shop/MissSophieBowtique",
-    label: "Miss Sophie Bowtique: 15% off",
-    code: "CHIFFON15",
-    subtitle : "Handmade clothing, harness dresses and accessories",
   },
   {
     link: "https://www.liketoknow.it/ChiffonTheMaltipoo",
@@ -103,12 +97,6 @@ const sponsors = [
   //  subtitle: "Pet apparel",
   //},
   {
-    link: "https://pawstanfurballs.com?Pawstapack=2PBMJ4AIE2",
-    label: "Pawsta N Furballs: 20% off",
-    code: "CHIFFON20",
-    subtitle: "Dog tutus and bandanas",
-  },
-  {
     link: "https://www.etsy.com/shop/Mariposandco",
     label: "Mariposa & Co: 10% off",
     code: "CHIFFON",
@@ -129,11 +117,17 @@ const sponsors = [
   },
   {
     link: "https://prf.hn/click/camref:1101ljdjJ/creativeref:1101l62969",
-    label: "Honest Kitchen: 10% off with code",
-    code: "CHIFFON10",
+    label: "Honest Kitchen: 15% off with code",
+    code: "CHIFFON15",
     subtitle: "Dog food and treats",
   },
-
+  {
+    link: "https://www.etsy.com/shop/MissSophieBowtique",
+    label: "Miss Sophie Bowtique: 15% off",
+    code: "CHIFFON15",
+    subtitle : "Handmade clothing, harness dresses and accessories",
+  },
+  
   //{
   //  link: "https://www.thehappyhowl.com/?ref=chiffon",
   //  label: "Happy Howl",
@@ -159,6 +153,12 @@ const sponsors = [
    // code: null,
    // subtitle: "Stylish tags",
   //},  
+  {
+    link: "https://pawstanfurballs.com?Pawstapack=2PBMJ4AIE2",
+    label: "Pawsta N Furballs: 20% off",
+    code: "CHIFFON20",
+    subtitle: "Dog tutus and bandanas",
+  },
   {
     link: "https://www.yesstyle.com/en/home.html?rco=CHIFFON",
     label: "YesStyle",
