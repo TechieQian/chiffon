@@ -6,7 +6,7 @@
 
 const sponsors = [
   {
-    link: "http://www.poshpuppyboutique.com/discount/CHIFFON",
+    link: "https://www.poshpuppyboutique.com?sca_ref=1237600.asXdCJaMoQ",
     label: "PoshPuppy Boutique: 35% off",
     code: "CHIFFON",
     subtitle: "One stop shop with clothing, accessories and more",
@@ -121,12 +121,12 @@ const sponsors = [
     code: "CHIFFON15",
     subtitle: "Dog food and treats",
   },
-  {
-    link: "https://www.etsy.com/shop/MissSophieBowtique",
-    label: "Miss Sophie Bowtique: 15% off",
-    code: "CHIFFON15",
-    subtitle : "Handmade clothing, harness dresses and accessories",
-  },
+  //{
+    //link: "https://www.etsy.com/shop/MissSophieBowtique",
+    //label: "Miss Sophie Bowtique: 15% off",
+    //code: "CHIFFON15",
+    //subtitle : "Handmade clothing, harness dresses and accessories",
+  //},
   
   //{
   //  link: "https://www.thehappyhowl.com/?ref=chiffon",
@@ -153,12 +153,12 @@ const sponsors = [
    // code: null,
    // subtitle: "Stylish tags",
   //},  
-  {
-    link: "https://pawstanfurballs.com?Pawstapack=2PBMJ4AIE2",
-    label: "Pawsta N Furballs: 20% off",
-    code: "CHIFFON20",
-    subtitle: "Dog tutus and bandanas",
-  },
+  //{
+    //link: "https://pawstanfurballs.com?Pawstapack=2PBMJ4AIE2",
+    //label: "Pawsta N Furballs: 20% off",
+    //code: "CHIFFON20",
+    //subtitle: "Dog tutus and bandanas",
+  //},
   {
     link: "https://www.yesstyle.com/en/home.html?rco=CHIFFON",
     label: "YesStyle",
