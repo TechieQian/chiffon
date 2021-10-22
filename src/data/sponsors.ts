@@ -6,6 +6,14 @@
 
 const sponsors = [
   {
+    link: "https://glnk.io/q3oj/chiffonthemaltipoo",
+    label: "Yamazaki Home",
+    code: null,
+    subtitle: "Organization and storage for your home!",
+  },  
+  
+  
+  {
     link: "https://www.poshpuppyboutique.com?sca_ref=1237600.asXdCJaMoQ",
     label: "PoshPuppy Boutique: 35% off",
     code: "CHIFFON",
