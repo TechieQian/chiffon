@@ -5,13 +5,6 @@
 // npm start
 
 const sponsors = [
-  {
-    link: "https://glnk.io/q3oj/chiffonthemaltipoo",
-    label: "Yamazaki Home",
-    code: null,
-    subtitle: "Organization and storage for your home!",
-  },  
-  
   
   {
     link: "https://www.poshpuppyboutique.com?sca_ref=1237600.asXdCJaMoQ",
@@ -31,29 +24,18 @@ const sponsors = [
   //subtitle: "Pledge to get first access new colorways & styles of dog sneakers!",
   //},
   {
-    link: "http://Pinktailco.com/discount/CHIFFON10",
-    label: "PinkTailCo: 10% off",
-    code: "CHIFFON10",
-    subtitle: "Walk accessories (harnesses, leashes, collars), bows and bandanas",
+    link: "https://dogbabycollection.com/",
+    label: "Dog Baby Collection: 20% off",
+    code: "CHIFFON20",
+    subtitle: "Dog clothing, accessories, toys, beds and more!",
   },
-  {
-    link: "https://www.brklz.com//?ref=bb-xz32gw",
-    label: "BRKLZ: 20% off",
-    code: "CHIFF",
-    subtitle: "Over the collar dog jewelry",
-  }, 
   {
     link: "https://dogcrushboutique.com/discount/CHIFFON",
     label: "Dog Crush Boutique: 15% off",
     code: "CHIFFON",
     subtitle: "Dog clothing, accessories, and more"
   },
-  {
-    link: "http://www.browze.com/?utm_source=brandbassador&utm_medium=affiliate&ref=bb-xz32gw",
-    label: "Browze: 50% off first order or 25% off with code",
-    code: "BCREWCHIFFON",
-    subtitle: "Home, kitchen, all kinds of supplies for humans and  pets!",
-  },
+
   {
     link: "https://www.liketoknow.it/ChiffonTheMaltipoo",
     label:
@@ -67,6 +49,42 @@ const sponsors = [
       "Amazon Store",
     code: null,
     subtitle: " Check out my favorite items on Amazon! (Paid Link) As an Amazon Associate, I earn from qualifying purchases."
+  },
+  {
+    link: "https://glnk.io/q3oj/chiffonthemaltipoo",
+    label: "Yamazaki Home",
+    code: null,
+    subtitle: "Organization and storage for your home!",
+  },  
+  {
+    link: "https://doraihome.com/?wly=131026",
+    label: "Dorai Home: 15% off",
+    code: "CHIFFON",
+    subtitle: "Dog mat and bowls - Fast drying, mold resistant home goods!",
+  },
+  {
+    link: "https://barkleywear.com/?ref=ng9-sipe4wz",
+    label: "Barkley Wear: 10% off",
+    code: "CHIFFON",
+    subtitle: "Stylish dog clothing",
+  },
+  {
+    link: "http://Pinktailco.com/discount/CHIFFON10",
+    label: "PinkTailCo: 10% off",
+    code: "CHIFFON10",
+    subtitle: "Walk accessories (harnesses, leashes, collars), bows and bandanas",
+  },
+  {
+    link: "https://www.brklz.com//?ref=bb-xz32gw",
+    label: "BRKLZ: 20% off",
+    code: "CHIFF",
+    subtitle: "Collars, leashes, letter charm name tags",
+  }, 
+  {
+    link: "http://www.browze.com/?utm_source=brandbassador&utm_medium=affiliate&ref=bb-xz32gw",
+    label: "Browze: 50% off first order or 25% off with code",
+    code: "BCREWCHIFFON",
+    subtitle: "Home, kitchen, all kinds of supplies for humans and  pets!",
   },
   {
     link: "https://www.blueberrypet.com/?ref=ng9-sipe4wz",
@@ -92,12 +110,12 @@ const sponsors = [
     code: "CHIFFON10",
     subtitle: "Pet clothing (Tees, dresses, sleepwear and more)",
   },
-  {
-    link: "https://www.etsy.com/shop/ruaillebuailleco",
-    label: "Ruaille Buaille Co: 10% off",
-    code: "CHIFFON",
-    subtitle: "Handmade Flower Crowns and other creations",
-  },
+  //{
+  //  link: "https://www.etsy.com/shop/ruaillebuailleco",
+  //  label: "Ruaille Buaille Co: 10% off",
+  //  code: "CHIFFON",
+  //  subtitle: "Handmade Flower Crowns and other creations",
+  //},
   //{
   //  link: "https://wowwowpetz.com/",
   //  label: "Wow Wow Petz: 25% off",
