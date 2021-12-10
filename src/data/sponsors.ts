@@ -62,12 +62,12 @@ const sponsors = [
     code: "CHIFFON",
     subtitle: "Dog mat and bowls - Fast drying, mold resistant home goods!",
   },
-  {
-    link: "https://barkleywear.com/?ref=ng9-sipe4wz",
-    label: "Barkley Wear: 10% off",
-    code: "CHIFFON",
-    subtitle: "Stylish dog clothing",
-  },
+  //{
+  //  link: "https://barkleywear.com/?ref=ng9-sipe4wz",
+  //  label: "Barkley Wear: 10% off",
+  //  code: "CHIFFON",
+  //  subtitle: "Stylish dog clothing",
+  //},
   {
     link: "http://Pinktailco.com/discount/CHIFFON10",
     label: "PinkTailCo: 10% off",
@@ -77,7 +77,7 @@ const sponsors = [
   {
     link: "https://www.brklz.com//?ref=bb-xz32gw",
     label: "BRKLZ: 20% off",
-    code: "CHIFF",
+    code: "CHIF",
     subtitle: "Collars, leashes, letter charm name tags",
   }, 
   {
