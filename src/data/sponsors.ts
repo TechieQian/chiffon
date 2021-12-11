@@ -219,8 +219,8 @@ tags: ["Human", "Pet", "Clothing"]
   {
     link:
       "www.tentree.com?utm_source=brandbassador&utm_medium=ambassador&ref=bb-xz32gw",
-    label: "Tentree: 15% off",
-    code: "TBCHIFFON4 or ask me for a current code!",
+    label: "Tentree: 15% off or ask me for current code",
+    code: "TBCHIFFON4",
     subtitle: "Sustainable, 100% organic cotton human clothing",
     tags: ["Human", "Clothing"]
   },
@@ -235,8 +235,8 @@ tags: ["Human", "Pet", "Clothing"]
   {
     link:
       "giesswein.com/?ref=bb-xz32gw",
-    label: "Giesswein: 15% off",
-    code: "BBCHIFF2 or ask me for a current code.",
+    label: "Giesswein: 15% off; Ask me for current code",
+    code: "BBCHIFF2",
     subtitle: "Organic, eco-friendly and sustainable shoes",
     tags: ["Human", "Clothing"]
   },
