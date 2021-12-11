@@ -219,7 +219,7 @@ tags: ["Human", "Pet", "Clothing"]
   {
     link:
       "www.tentree.com?utm_source=brandbassador&utm_medium=ambassador&ref=bb-xz32gw",
-    label: "Tentree: 15% off or ask me for current code",
+    label: "Tentree: 15% off; Ask me for current code",
     code: "TBCHIFFON4",
     subtitle: "Sustainable, 100% organic cotton human clothing",
     tags: ["Human", "Clothing"]
