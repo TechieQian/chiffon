@@ -50,18 +50,7 @@ const sponsors = [
     code: null,
     subtitle: " Check out my favorite items on Amazon! (Paid Link) As an Amazon Associate, I earn from qualifying purchases."
   },
-  {
-    link: "https://glnk.io/q3oj/chiffonthemaltipoo",
-    label: "Yamazaki Home",
-    code: null,
-    subtitle: "Organization and storage for your home!",
-  },  
-  {
-    link: "https://doraihome.com/?wly=131026",
-    label: "Dorai Home: 15% off",
-    code: "CHIFFON",
-    subtitle: "Dog mat and bowls - Fast drying, mold resistant home goods!",
-  },
+
   //{
   //  link: "https://barkleywear.com/?ref=ng9-sipe4wz",
   //  label: "Barkley Wear: 10% off",
@@ -198,7 +187,48 @@ const sponsors = [
     code: "INAZ9RUS",
     subtitle: "Dog clothing and accessories"
   },
-//  {
+  {
+    link:
+      "https://glnk.io/k33o/chiffonthemaltipoo",
+    label: "Allbirds: Free underwear with $125 purchase",
+    code: null,
+    subtitle: "Offer automatically applied at checkout if underwear is added to your cart, you won't find this deal anywhere else!"
+  },
+  {
+    link:
+      "www.tentree.com?utm_source=brandbassador&utm_medium=ambassador&ref=bb-xz32gw",
+    label: "Tentree: 15% off",
+    code: "TBCHIFFON4 or ask me for a current code!",
+    subtitle: "Sustainable, 100% organic cotton human clothing"
+  },
+  {
+    link:
+      "https://www.gopjn.com/t/SENKTEdLTUZDSEpOSktKQ0hJRkhPRw",
+    label: "100 Percent Pure: Free shipping on 50+",
+    code: null,
+    subtitle: "Makeup with pure, natural ingredients"
+  },
+  {
+    link:
+      "giesswein.com/?ref=bb-xz32gw",
+    label: "Giesswein: 15% off",
+    code: "BBCHIFF2 or ask me for a current code.",
+    subtitle: "Organic, eco-friendly and sustainable shoes"
+  },
+  {
+    link: "https://glnk.io/q3oj/chiffonthemaltipoo",
+    label: "Yamazaki Home",
+    code: null,
+    subtitle: "Organization and storage for your home!",
+  },  
+  {
+    link: "https://doraihome.com/?wly=131026",
+    label: "Dorai Home: 15% off",
+    code: "CHIFFON",
+    subtitle: "Fast drying, mold resistant home goods! Dog bowl mats, bath mats and more.",
+  },
+
+  //  {
   //  link: "https://www.vanderpumppets.com/",
     //label: "Vanderpump Pets: 15% off",
     //code: "CHIFFON15",
